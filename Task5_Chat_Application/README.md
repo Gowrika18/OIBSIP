@@ -21,4 +21,7 @@ It uses socket programming for real-time messaging and threading to handle multi
    • tkinter (GUI interface)
    • datetime (timestamps)
 
-🔗 Connect with Me LinkedIn GitHub
+## 🔗 Connect with Me
+
+💼 [LinkedIn](https://www.linkedin.com/in/gowrika-kuckian-36950a259)  
+💻 [GitHub](https://github.com/gowrika18)
